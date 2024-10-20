@@ -1,4 +1,3 @@
-gunicorn
 asttokens==2.2.1
 attrs==24.2.0
 beautifulsoup4==4.12.3
