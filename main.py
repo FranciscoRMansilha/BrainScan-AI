@@ -3,6 +3,8 @@ from dash.dependencies import Input, Output
 from app import app, navbar
 from pages import home, image_manipulation, tumor_detection
 
+server = app.server
+
 # Main layout that includes the navbar and a location component for navigation
 app.layout = html.Div([
     dcc.Location(id='url', refresh=False),
