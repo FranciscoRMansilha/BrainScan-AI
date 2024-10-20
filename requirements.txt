@@ -1,4 +1,4 @@
-asttokens @ file:///home/conda/feedstock_root/build_artifacts/asttokens_1698341106958/work
+asttokens==2.2.1 
 attrs==24.2.0
 beautifulsoup4==4.12.3
 blinker==1.8.2
