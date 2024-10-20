@@ -4,6 +4,8 @@ import dash_bootstrap_components as dbc
 # Initialize the app
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.MINTY], suppress_callback_exceptions=True)
 
+server = app.server
+
 # Custom CSS for hamburger menu and other elements
 app.index_string = '''
 <!DOCTYPE html>
