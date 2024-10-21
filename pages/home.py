@@ -124,17 +124,16 @@ layout = dbc.Container(
                 [
                     html.H3("Who Made This App?"),
                     html.P(
-                        "BrainScan AI was developed by three Data Science and AI students: Francisco Mansilha – Concept, dataset preparation, "
-                        "model training, and app creation; Lea Banovac – Explainable AI feature development using LayerCAM; and Michał Dziechciarz "
-                        "– App deployment and infrastructure."
+                        "BrainScan AI was developed by two Data Science and AI students: Francisco Mansilha – Concept, dataset preparation, "
+                        "model training, and app creation; Lea Banovac – Explainable AI feature development using LayerCAM; "
                     ),
                     html.P(
-                        "We'd like to thank the dataset creators for making this project possible. For feedback or inquiries, feel free to reach out to us via LinkedIn:"
+                        "We'd like to thank the dataset creators for making this project possible and our friend Michał Dziechciarz foe helping us test the app and providing feedback through its development process." 
+                        "For feedback or inquiries, feel free to reach out to us via LinkedIn:"
                     ),
                     html.Ul([
                         html.Li(html.A("Francisco Mansilha", href="https://www.linkedin.com/in/francisco-mansilha/")),
                         html.Li(html.A("Lea Banovac", href="https://www.linkedin.com/in/lea-banovac-29191a24b/")),
-                        html.Li(html.A("Michał Dziechciarz", href="https://www.linkedin.com/in/mdziechciarz/")),
                     ]),
                 ],
                 className="mb-5"  # Adds space after this section
