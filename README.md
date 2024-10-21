@@ -89,11 +89,10 @@ The app should now be running on your local machine. The terminal will display t
 
 ## Authors and Acknowledgments
 
-**BrainScan AI** was developed by three Data Science and AI students:
+**BrainScan AI** was developed by two Data Science and AI students:
 
 - **[Francisco Mansilha](https://www.linkedin.com/in/francisco-mansilha/)** – Concept, dataset preparation, model training, and app creation
 - **[Lea Banovac](https://www.linkedin.com/in/lea-banovac-29191a24b/)** – Explainable AI feature development using LayerCAM
-- **[Michał Dziechciarz](https://www.linkedin.com/in/mdziechciarz/)** – App deployment and infrastructure
 
 Feel free to contact us through our Linkedin if you would like to ask any question or bring any problem to our attention!
 
