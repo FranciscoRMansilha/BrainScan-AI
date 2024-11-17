@@ -77,11 +77,7 @@ Install the required dependencies from the `requirements.txt` file:
 pip install -r requirements.txt
 ```
 
-### Step 5: Download the model
-
-You will need to download the model from this [link](https://drive.google.com/file/d/1buPbVkrHP6PbCyi6z5HBRZjWx7LIa7xx/view?usp=sharing) and place it on the `pages` directory
-
-### Step 6: Run the Application
+### Step 5: Run the Application
 
 Run the application using the following command:
 
@@ -89,7 +85,7 @@ Run the application using the following command:
 python main.py
 ```
 
-The app should now be running on your local machine. The terminal will display the URL where you can access it. Please note that it may take a minute to download the model 🙂
+The app should now be running on your local machine. The terminal will display the URL where you can access it. Please note that it may take a minute to download the model, but if you run into problems you can download the model from this [link](https://drive.google.com/file/d/1buPbVkrHP6PbCyi6z5HBRZjWx7LIa7xx/view?usp=sharing) and place it on the `pages` directory 🙂
 
 ## Authors and Acknowledgments
 
