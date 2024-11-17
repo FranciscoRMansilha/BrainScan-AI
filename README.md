@@ -77,7 +77,11 @@ Install the required dependencies from the `requirements.txt` file:
 pip install -r requirements.txt
 ```
 
-### Step 5: Run the Application
+### Step 5: Download the model
+
+You will need to download the model from this [link](https://drive.google.com/file/d/1buPbVkrHP6PbCyi6z5HBRZjWx7LIa7xx/view?usp=sharing) and place it on the `pages` directory
+
+### Step 6: Run the Application
 
 Run the application using the following command:
 
